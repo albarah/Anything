@@ -3,228 +3,228 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_3567d47a7dfc5008d518daa674a7e5c835d24866\classes.dex" />
+        sha1="62729e62adb5ad8707439a2f540fb9b8054085c6">
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6834edc0bbf86626f559a4695ba085036897d566/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_1031223b49a043c9bd36cfba66aaefefa7352950\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_4923b9a2e19f72d4fc9601105e35d5d8b948d840\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_763b10cdb7e35bdb9e734e08449f2884fc31653c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_36f86fea40347844890891e30912c96bda76af45\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_a8ac01f494428cbad0d59fd8839a737c137f7e06\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_ac969b1d78e9ced738df285ff7a8dd38726e4312\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_dcfd83dcf2487d70ee4164c8cc1a39e39fcd57c6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_fa942588a0d6f8d94420817a5906f6c092992abf\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_6901af83a67c2f6ecc654c2679ecf7321d277406\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7e3f283de1e094c0d46474b9ef5aad8b2dd05a97">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b1b95e4038bf73701fc6132b7f7a87afa1ef6660\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_48bc06247a353c8ad0279853eca1b2fcf3404865\classes.dex" />
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_3be807276fa8621e6bd35bf8ea5bc68edb55c3f3/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_8b911b4db041c1dc4201d50dc84db1acd72be939\classes.dex" />
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_2df161a23de9e088c88524a754e5d9598b718bc9/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_5bd68c4c0719d24b32e3b813e89d03b4e91ef59f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_f546463c8b7f01087e0abaaf9ecd1c57f0b4edae\classes.dex" />
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_75426294d5a96b1a47a37e5da6133edd58efe6da/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.0_9f850fcd5ba511eb800a9e3e0f31c4b9a79f8bf3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Johnny\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_6fce46b07487fa1d392f8f5a00bdc2c85a36e397\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_c1e827c06419b148fd9369ce79f354b72deea487\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_086c3b5fb503dba9ef7cdf671ebefcd4a7b7a455\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.0_c67599dbe9a8f403b9d43822e4f28d5ab684569b\classes.dex" />
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_8d8b1c5d1bc30356d88f1b2963f8f063c83adb0d/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_7c723d16649ae0dfcc2ba8bf15872ec55d349030\classes.dex" />
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_7c66420aa6b66692c216f7138ef323fc8e61ed7f/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8bb4adca21a727354d3c236632f3ee6a7bdd6d8b">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_eff05f010bf06a3b4c6ccb200c37a64a7e43162e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.0_3da8f618c0e2aef357b103379e100366a4f273d4\classes.dex" />
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_0846b1ef0a6b1ec3be08320fc9f750286b67336d/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_ef063ebb2d97483cafefcde264e8272fbaea8a1a\classes.dex" />
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_3e3101c12552a2430fc42983c46f7e28bfa0200b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_0ea5a1d5e5777c65699a8f296628b375fea6463b\classes.dex" />
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_b3a43579fea2460306fcbecac354b98f9ca3a068/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_3347f05f3612597ee9538c1ba903d9a5e99d3bed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_55a23279ad47621bde405bf829b6f7b8a8f9633d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_579796c37c9c0ccded291e4cc7dcbdaff46c2462/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianzhang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_8e640c2aa08478f1b23574487217dfb9d5e0c528/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_dafccf597ad3ece608958192b42fdbaace05773e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_924228a6b5e9e87107e1f34a4336d3970acd2504/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_edd4fb502b25d651eb433594f904b6b7d2938cc7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_c58d5dcf3f1000059cb9d52a1ea614fb112fc945/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\Johnny\AndroidStudioProjects\Anything\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_2c85351184b93b040c53a6b369012444a3fdaa1e\classes.dex" />
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_a580885d70d6c58f48660a3dc8417fe7e3d427bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_824e6513ca968ef0847cf43ec8e1207b1d1c75b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_b860162eeacc19bc358f30ddfe1b986747acbdbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_018fcdf78a5d6c957368d04a9497c1cf867c7323/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_7883a10ec29eeff53d6d933e0c41a54375e285e8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.0.0_75deef2fe95f00d7da27c031e0b5448ba6f83986/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianzhang/Documents/Anything/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ad2c735e171a3fc5ccb5f3a3accc1e715161f07e">
+        <dex dex="/Users/brianzhang/Documents/Anything/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_865e9808ff80ca6392a87ad815050d206ef1cf4d/classes.dex" />
     </item>
 
 </items>

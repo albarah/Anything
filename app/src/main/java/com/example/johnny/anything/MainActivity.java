@@ -17,6 +17,7 @@ import com.google.android.gms.vision.text.TextRecognizer;
 
 public class MainActivity extends AppCompatActivity {
 
+    private String output;
     private static final int CAMERA_REQUEST = 1888;
     ImageView mimageView;
     TextRecognizer textRecognizer;
@@ -28,11 +29,6 @@ public class MainActivity extends AppCompatActivity {
         mimageView = (ImageView) this.findViewById(R.id.image_from_camera);
         Button button = (Button) this.findViewById(R.id.take_image_from_camera);
         textRecognizer = new TextRecognizer.Builder(this).build();
-        if (textRecognizer.isOperational()==true){
-            TextView thing = (TextView) findViewById(R.id.Viral);
-            thing.setText("SHIT'S LIT FAM");
-        }
-
     }
 
     public void takeImageFromCamera(View view) {
@@ -46,16 +42,17 @@ public class MainActivity extends AppCompatActivity {
             Frame outputFrame = new Frame.Builder().setBitmap(mphoto).build();
             textRecognizer.detect(outputFrame);
             SparseArray<TextBlock> foo = findText(outputFrame);
-            Log.d("MAIN",foo.get(0).getValue());
-            for (int i=0;i<foo.size();i++){
-                foo.get(i).getComponents();
-            }
+            output = foo.get(0).getValue();
+            Log.d("MAIN", output);
             mimageView.setImageBitmap(mphoto);
         }
     }
 
-    private SparseArray<TextBlock> findText(Frame frame){
-        Log.d("Processor", "TESTINGGGGGGGGGGG22222");
+    public String getOutput() {
+        return output;
+    }
+
+    private SparseArray<TextBlock> findText(Frame frame) {
         SparseArray<TextBlock> foo=textRecognizer.detect(frame);
         return foo;
     }

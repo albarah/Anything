@@ -28,7 +28,7 @@
         android:id="@+id/Viral"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:text="ViralAndroid.com"
+        android:text="SnapCalendar"
         android:autoLink="web"
         android:textSize="24sp"
         android:textStyle="bold"
