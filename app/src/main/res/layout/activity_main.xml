@@ -25,6 +25,7 @@
         android:layout_marginTop="16dp"/>
 
     <TextView
+        android:id="@+id/Viral"
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:text="ViralAndroid.com"

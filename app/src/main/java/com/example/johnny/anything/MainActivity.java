@@ -1,12 +1,17 @@
 package com.example.johnny.anything;
 
+import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
+import android.widget.TextView;
+
+import com.google.android.gms.vision.text.TextRecognizer;
 
 public class MainActivity extends AppCompatActivity {
 //    ImageView mImageView= (ImageView) findViewById(R.id.image);
@@ -21,6 +26,11 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         mimageView = (ImageView) this.findViewById(R.id.image_from_camera);
         Button button = (Button) this.findViewById(R.id.take_image_from_camera);
+        TextRecognizer textRecognizer = new TextRecognizer.Builder(this).build();
+        if (textRecognizer.isOperational()==true){
+            TextView thing = (TextView) findViewById(R.id.Viral);
+            thing.setText("SHIT'S LIT FAM");
+        }
     }
 
     public void takeImageFromCamera(View view) {
