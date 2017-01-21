@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
         mimageView = (ImageView) this.findViewById(R.id.image_from_camera);
         Button button = (Button) this.findViewById(R.id.take_image_from_camera);
         textRecognizer = new TextRecognizer.Builder(this).build();
+        textRecognizer.setProcessor(new OcrDetectorProcessor());
         if (textRecognizer.isOperational()==true){
             TextView thing = (TextView) findViewById(R.id.Viral);
             thing.setText("SHIT'S LIT FAM");
@@ -42,8 +43,13 @@ public class MainActivity extends AppCompatActivity {
             Bitmap mphoto = (Bitmap) data.getExtras().get("data");
             Frame outputFrame = new Frame.Builder().setBitmap(mphoto).build();
             textRecognizer.detect(outputFrame);
+            findText(outputFrame);
             mimageView.setImageBitmap(mphoto);
         }
+    }
+
+    private void findText(Frame frame){
+        textRecognizer.detect(frame);
     }
 
 
