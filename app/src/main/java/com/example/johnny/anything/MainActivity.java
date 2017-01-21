@@ -4,12 +4,15 @@ import android.content.Intent;
 import android.graphics.Bitmap;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
+import android.util.SparseArray;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.google.android.gms.vision.Frame;
+import com.google.android.gms.vision.text.TextBlock;
 import com.google.android.gms.vision.text.TextRecognizer;
 
 public class MainActivity extends AppCompatActivity {
@@ -25,7 +28,6 @@ public class MainActivity extends AppCompatActivity {
         mimageView = (ImageView) this.findViewById(R.id.image_from_camera);
         Button button = (Button) this.findViewById(R.id.take_image_from_camera);
         textRecognizer = new TextRecognizer.Builder(this).build();
-        textRecognizer.setProcessor(new OcrDetectorProcessor());
         if (textRecognizer.isOperational()==true){
             TextView thing = (TextView) findViewById(R.id.Viral);
             thing.setText("SHIT'S LIT FAM");
@@ -43,13 +45,19 @@ public class MainActivity extends AppCompatActivity {
             Bitmap mphoto = (Bitmap) data.getExtras().get("data");
             Frame outputFrame = new Frame.Builder().setBitmap(mphoto).build();
             textRecognizer.detect(outputFrame);
-            findText(outputFrame);
+            SparseArray<TextBlock> foo = findText(outputFrame);
+            Log.d("MAIN",foo.get(0).getValue());
+            for (int i=0;i<foo.size();i++){
+                foo.get(i).getComponents();
+            }
             mimageView.setImageBitmap(mphoto);
         }
     }
 
-    private void findText(Frame frame){
-        textRecognizer.detect(frame);
+    private SparseArray<TextBlock> findText(Frame frame){
+        Log.d("Processor", "TESTINGGGGGGGGGGG22222");
+        SparseArray<TextBlock> foo=textRecognizer.detect(frame);
+        return foo;
     }
 
 

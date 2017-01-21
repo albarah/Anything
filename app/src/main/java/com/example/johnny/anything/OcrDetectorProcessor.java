@@ -12,7 +12,8 @@ import com.google.android.gms.vision.text.TextBlock;
 
 public class OcrDetectorProcessor implements Detector.Processor<TextBlock> {
 
-    OcrDetectorProcessor(){
+    public OcrDetectorProcessor(){
+        super();
 
     }
     @Override
